@@ -1,2 +1,3 @@
-# python-for-academics
-Python for academics.
+# Python for academics
+
+## Tutorials
