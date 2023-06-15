@@ -20,12 +20,13 @@ You can access all video tutorials from the YouTube playlist:
 
 - [``6 min video``: **Generate large row headers with list comprehensions**](https://youtu.be/tXkwV-zyqB8)
 
+- [``5 min video``: **Import row headers from an external file**](https://youtu.be/EuH22EUc31Y)
+
 - [**Organize your results into LaTeX tables**]()
 
 ### 2️⃣ Postprocess continuously arriving data
 
 > [`</> Jupyter notebook`](tutorials/)
-
 
 
 
@@ -37,6 +38,13 @@ You can access all video tutorials from the YouTube playlist:
 
 
 ### 4️⃣ Manage your figures
+
+> [`</> Jupyter notebook`](tutorials/)
+
+
+
+
+### 5️⃣ Process files
 
 > [`</> Jupyter notebook`](tutorials/)
 
