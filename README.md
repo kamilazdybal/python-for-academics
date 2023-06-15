@@ -16,7 +16,9 @@ You can access all video tutorials from the YouTube playlist:
 
 > [`</> Jupyter notebook`](tutorials/automate-your-life-with-list-comprehensions.ipynb)
 
-- [``5 min video``: **Generate large headers with list comprehensions**](https://youtu.be/2EPNJytD3dU)
+- [``5 min video``: **Generate large column headers with list comprehensions**](https://youtu.be/2EPNJytD3dU)
+
+- [``6 min video``: **Generate large row headers with list comprehensions**](https://youtu.be/tXkwV-zyqB8)
 
 - [**Organize your results into LaTeX tables**]()
 
