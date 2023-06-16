@@ -48,7 +48,7 @@ You can access all video tutorials from the YouTube playlist:
 
 > [`</> Jupyter notebook`](tutorials/)
 
-- [``video``: **Append to a file name**]()
+- [``12 min video``: **Append a prefix to a file name**](https://youtu.be/3Y2w_7N8CcI)
 
 - [``video``: **Remove a phrase from a file name**]()
 
