@@ -44,9 +44,13 @@ You can access all video tutorials from the YouTube playlist:
 
 
 
-### 5️⃣ Process files
+### 5️⃣ Processing files
 
 > [`</> Jupyter notebook`](tutorials/)
+
+- [``video``: **Append to a file name**]()
+
+- [``video``: **Remove a phrase from a file name**]()
 
 
 
