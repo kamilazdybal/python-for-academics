@@ -50,7 +50,7 @@ You can access all video tutorials from the YouTube playlist:
 
 - [``12 min video``: **Append a prefix to a file name**](https://youtu.be/3Y2w_7N8CcI)
 
-- [``video``: **Remove a phrase from a file name**]()
+- [``10 min video``: **Remove a phrase from a file name using regular expressions library**](https://youtu.be/cTBpI1QQjLA)
 
 
 
