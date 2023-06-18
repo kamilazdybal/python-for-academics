@@ -22,36 +22,37 @@ You can access all video tutorials from the YouTube playlist:
 
 - [``5 min video``: **Import row headers from an external file**](https://youtu.be/EuH22EUc31Y)
 
-- [**Organize your results into LaTeX tables**]()
+### 2️⃣ Processing files
 
-### 2️⃣ Postprocess continuously arriving data
-
-> [`</> Jupyter notebook`](tutorials/)
-
-
-
-### 3️⃣ Manage your bibliography
-
-> [`</> Jupyter notebook`](tutorials/)
-
-
-
-
-### 4️⃣ Manage your figures
-
-> [`</> Jupyter notebook`](tutorials/)
-
-
-
-
-### 5️⃣ Processing files
-
-> [`</> Jupyter notebook`](tutorials/)
+> [`</> Jupyter notebook`](tutorials/process-files.ipynb)
 
 - [``12 min video``: **Append a prefix to a file name**](https://youtu.be/3Y2w_7N8CcI)
 
 - [``10 min video``: **Remove a phrase from a file name using regular expressions library**](https://youtu.be/cTBpI1QQjLA)
 
+### 3️⃣ Documenting your research
+
+> [`</> Jupyter notebook`](tutorials/)
+
+- [``video`` **Generate README files automatically**]()
+
+- [``video`` **Organize your results into LaTeX tables**]()
+
+### 4️⃣ Manage your bibliography
+
+> [`</> Jupyter notebook`](tutorials/)
+
+
+
+### 5️⃣ Manage your figures
+
+> [`</> Jupyter notebook`](tutorials/)
+
+
+
+### 6️⃣ Postprocess continuously arriving data
+
+> [`</> Jupyter notebook`](tutorials/)
 
 
 
