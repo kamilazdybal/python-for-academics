@@ -34,7 +34,7 @@ You can access all video tutorials from the YouTube playlist:
 
 > [`</> Jupyter notebook`](tutorials/)
 
-- [``video`` **Generate README files automatically**]()
+- [``8 min video`` **Generate README files automatically**](https://youtu.be/KnbVBXsbyxg)
 
 - [``video`` **Organize your results into LaTeX tables**]()
 
