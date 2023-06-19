@@ -1,8 +1,14 @@
 ![Screenshot](thumbnail/banner.png)
 
-#### 🎓 My goal is to help you save time and grant money by automating dull tasks!
+### 🎓 My goal is to help you save time and grant money by automating dull tasks!
 
------
+## Preprequisites & my goals
+
+I'm assuming that you have some exposure to Python and have used Python before, at least a little bit. Thus, I will not be explaining Python from scratch in this series. There's plenty of materials for that out there already! I invite you to check and learn things on your own here and there to expand on what I didn't cover. Since you're an academic, I'm confident that this approach will work out well :-)
+
+My goal is to provide you with extra tools and ideas that you haven't thought about using or implementing before. The best use of these tutorials, as I see it, is that you take those tools and ideas and start building your own Python toolbox that can help you in your everyday academic life. My hope is that you'll find pieces of useful advice that can help you automate your work, your own way!
+
+The audience I think will benefit a lot from this tutorials are Ph.D. students, especially at the beginning of their Ph.D. I believe that the earlier you learn how to automate dull tasks the better! My motivation was to teach things that I wish I learned early in my Ph.D. But, of course, academics at all stages of their careers are welcome to join along! :-)
 
 ## Video tutorials & code
 
@@ -12,9 +18,9 @@ You can access all video tutorials from the YouTube playlist:
   <img src="https://img.shields.io/badge/youtube-firebrick?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
 </a>
 
-### 1️⃣ Automate your life with list comprehensions
+### 1️⃣ Automating your life with list comprehensions
 
-> [`</> Jupyter notebook`](tutorials/automate-your-life-with-list-comprehensions.ipynb)
+> [`</> Jupyter notebook`](tutorials/list-comprehensions.ipynb)
 
 - [``5 min video``: **Generate large column headers with list comprehensions**](https://youtu.be/2EPNJytD3dU)
 
@@ -46,19 +52,14 @@ You can access all video tutorials from the YouTube playlist:
 
 - [``video`` **Generate a literature review table from a `.bib` file**]()
 
-
 ### 5️⃣ Postprocessing continuously arriving data
 
 > [`</> Jupyter notebook`](tutorials/)
 
 - [``video`` **Prepare your script for asynchronous data**]()
 
-
-
 ### 6️⃣ Managing figures
 
 > [`</> Jupyter notebook`](tutorials/)
-
-
 
 -----

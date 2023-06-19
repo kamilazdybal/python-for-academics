@@ -4,5 +4,5 @@
 
 - [Jupyter notebook: `document-research.ipynb`](document-research.ipynb)
 
-- [Jupyter notebook: `automate-your-life-with-list-comprehensions.ipynb`](automate-your-life-with-list-comprehensions.ipynb)
+- [Jupyter notebook: `list-comprehensions.ipynb`](list-comprehensions.ipynb)
 
