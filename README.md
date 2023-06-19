@@ -1,8 +1,8 @@
 ![Screenshot](thumbnail/banner.png)
 
-### 🎓 My goal is to help you save time and grant money by automating dull tasks!
-
 ## Prerequisites & my goals
+
+### 🎓 tl;dr: My goal is to help you save time and grant money by automating dull tasks!
 
 I'm assuming that you have some exposure to Python and have used Python before, at least a little bit. Thus, I will not be explaining Python from scratch in this series. There's plenty of materials for that out there already! I invite you to check and learn things on your own here and there to expand on what I do not cover. Since you're an academic, I'm confident that this approach will work out well!
 
