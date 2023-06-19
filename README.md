@@ -30,27 +30,32 @@ You can access all video tutorials from the YouTube playlist:
 
 - [``10 min video``: **Remove a phrase from a file name using regular expressions library**](https://youtu.be/cTBpI1QQjLA)
 
-### 3️⃣ Documenting your research
+### 3️⃣ Documenting research
 
 > [`</> Jupyter notebook`](tutorials/)
 
-- [``8 min video`` **Generate README files automatically**](https://youtu.be/KnbVBXsbyxg)
+- [``8 min video`` **Generate `README.md` files automatically**](https://youtu.be/KnbVBXsbyxg)
+
+- [``video`` **Expand your `README.md` file with code info**]()
 
 - [``video`` **Organize your results into LaTeX tables**]()
 
-### 4️⃣ Manage your bibliography
+### 4️⃣ Managing bibliography
 
 > [`</> Jupyter notebook`](tutorials/)
 
+- [``video`` **Generate a literature review table from a `.bib` file**]()
 
 
-### 5️⃣ Manage your figures
+### 5️⃣ Postprocessing continuously arriving data
 
 > [`</> Jupyter notebook`](tutorials/)
 
+- [``video`` **Prepare your script for asynchronous data**]()
 
 
-### 6️⃣ Postprocess continuously arriving data
+
+### 6️⃣ Managing figures
 
 > [`</> Jupyter notebook`](tutorials/)
 
