@@ -42,7 +42,7 @@ You can access all video tutorials from the YouTube playlist:
 
 - [``8 min video`` **Generate `README.md` files automatically**](https://youtu.be/KnbVBXsbyxg)
 
-- [``video`` **Expand your `README.md` file with code info**]()
+- [``8 min video`` **Expand your `README.md` file with code info**](https://youtu.be/9jCQA3psQGI)
 
 - [``video`` **Organize your results into LaTeX tables**]()
 
