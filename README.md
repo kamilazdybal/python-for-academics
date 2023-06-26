@@ -46,7 +46,7 @@ You can access all video tutorials from the YouTube playlist:
 
 - [``8 min video`` **Expand your `README.md` file with code info**](https://youtu.be/9jCQA3psQGI)
 
-- [``video`` **Organize your results into LaTeX tables**]()
+- [``11 min video`` **Organize your results into LaTeX tables**](https://youtu.be/-kU4h05jlFA)
 
 ### 4️⃣ Managing bibliography
 
