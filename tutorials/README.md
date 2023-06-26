@@ -18,3 +18,9 @@
 
 > In this notebook, we use list comprehensions to quickly generate large pieces of text and `tex` code. 
 
+### `Python for academics` : Managing your bibliography
+
+- [Jupyter notebook: `manage-bibliography.ipynb`](manage-bibliography.ipynb)
+
+> In this notebook, we explore various ways in which Python can help us manage bibliographic files, citations, and literature reviews.
+

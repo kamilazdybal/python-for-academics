@@ -52,13 +52,25 @@ You can access all video tutorials from the YouTube playlist:
 
 > [`</> Jupyter notebook`](tutorials/)
 
+- [``video`` **Count bibliographic items**]()
+
+- [``video`` **List `.bib` items tags**]()
+
+- [``video`` **Find duplicate references**]()
+
+- [``video`` **Is it cited?**]()
+
+- [``video`` **Order `.bib` items**]()
+
+- [``video`` **How many times is it cited?**]()
+
 - [``video`` **Generate a literature review table from a `.bib` file**]()
 
-### 5️⃣ Postprocessing continuously arriving data
+### 5️⃣ Postprocessing results
 
 > [`</> Jupyter notebook`](tutorials/)
 
-- [``video`` **Prepare your script for asynchronous data**]()
+- [``video`` **Prepare your script for asynchronously arriving data**]()
 
 ### 6️⃣ Managing figures
 
