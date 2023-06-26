@@ -58,9 +58,9 @@ You can access all video tutorials from the YouTube playlist:
 
 - [``video`` **Find duplicate references**]()
 
-- [``video`` **Is it cited?**]()
+- [``video`` **Order `.bib` items by year of publication**]()
 
-- [``video`` **Order `.bib` items**]()
+- [``video`` **Is it cited?**]()
 
 - [``video`` **How many times is it cited?**]()
 
