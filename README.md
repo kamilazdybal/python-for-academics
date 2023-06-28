@@ -40,7 +40,7 @@ You can access all video tutorials from the YouTube playlist:
 
 ### 3️⃣ Documenting research
 
-> [`</> Jupyter notebook`](tutorials/)
+> [`</> Jupyter notebook`](tutorials/document-research.ipynb)
 
 - [``8 min video`` **Generate `README.md` files automatically**](https://youtu.be/KnbVBXsbyxg)
 
@@ -50,9 +50,9 @@ You can access all video tutorials from the YouTube playlist:
 
 ### 4️⃣ Managing bibliography
 
-> [`</> Jupyter notebook`](tutorials/)
+> [`</> Jupyter notebook`](tutorials/manage-bibliography.ipynb)
 
-- [``video`` **Count bibliographic items**]()
+- [``16 min video`` **Count bibliographic items**](https://youtu.be/6S-o_TRQMn4)
 
 - [``video`` **List `.bib` items tags**]()
 
