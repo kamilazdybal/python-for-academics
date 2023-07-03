@@ -8,7 +8,7 @@ My goal is to provide you with extra tools and ideas that you haven't thought ab
 
 The audience I think will benefit a lot from these tutorials are Ph.D. students, especially at the beginning of their Ph.D. I believe that the earlier you learn how to automate dull tasks the better! My motivation is to teach you things that I wish I had learned early in my Ph.D. But, of course, academics at all stages of their careers are welcome to join along! :-)
 
-I'm assuming that you have some exposure to Python and have used Python before, at least a little bit. Thus, I will not be explaining Python from scratch in this series. There's plenty of materials for that out there already! I invite you to check and learn things on your own here and there to expand on what I do not cover. Since you're an academic, I'm confident that this approach will work out well!
+I'm assuming that you have some exposure to Python and have used Python before, at least a little bit. Thus, I will not be explaining Python from scratch in this series. There's plenty of materials for that out there already! However, I am going to explain the bits of the code as we go. I invite you to check and learn things on your own here and there to expand on what I do not cover. Since you're an academic, I'm confident that this approach will work out well!
 
 ## Video tutorials & code
 
@@ -56,7 +56,9 @@ You can access all video tutorials from the YouTube playlist:
 
 - [``6 min video`` **List `.bib` items tags**](https://youtu.be/KgqliCnm9ek)
 
-- [``video`` **Find duplicate references**]()
+- [``8 min video`` **Find duplicate references**](https://youtu.be/OBfpPYhHVhs)
+
+- [``video`` **Remove duplicate references**]()
 
 - [``video`` **Order `.bib` items by year of publication**]()
 
