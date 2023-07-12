@@ -58,7 +58,7 @@ You can access all video tutorials from the YouTube playlist:
 
 - [``8 min video`` **Find duplicate references**](https://youtu.be/OBfpPYhHVhs)
 
-- [``video`` **Remove duplicate references**]()
+- [``11 min video`` **Remove duplicate references**](https://youtu.be/JtSoU6dHtog)
 
 - [``video`` **Order `.bib` items by year of publication**]()
 
