@@ -29,6 +29,8 @@ You can access all video tutorials from the YouTube playlist:
 - [``5 min video``: **Import row headers from an external file**](https://youtu.be/EuH22EUc31Y)
 
 - [``6 min video``: **Create permutations of lab cases text**](https://youtu.be/OroWX2PTU4I)
+- 
+- [``6 min video``: **Generate multiple terminal commands**](https://youtu.be/CvDWk56REW4)
 
 ### 2️⃣ Processing files
 
