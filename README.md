@@ -72,7 +72,7 @@ You can access all video tutorials from the YouTube playlist:
 
 ### 5️⃣ Postprocessing results
 
-> [`</> Jupyter notebook`](tutorials/)
+> [`</> Jupyter notebook`](tutorials/postprocess-results.ipynb)
 
 - [``video`` **Prepare your script for asynchronously arriving data**]()
 
