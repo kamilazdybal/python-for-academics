@@ -74,7 +74,7 @@ You can access all video tutorials from the YouTube playlist:
 
 > [`</> Jupyter notebook`](tutorials/postprocess-results.ipynb)
 
-- [``video`` **Prepare your script for asynchronously arriving data**]()
+- [``14 min video`` **Prepare your script for asynchronously arriving data**](https://youtu.be/fUt7Eshf0lU)
 
 ### 6️⃣ Managing figures
 
