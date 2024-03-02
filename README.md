@@ -12,9 +12,9 @@ I'm assuming that you have some exposure to Python and have used Python before, 
 
 ## Scripts
 
-You can access the toolbox of ready scripts in the [``scripts``](scripts\) directory. Feel free to copy and modify them for your target use case!
+You can access the toolbox of ready scripts in the [`scripts`](scripts\) directory. Feel free to copy and modify them for your target use case!
 
-The video tutorials and Jupyter notebooks below will explain step-by-step how these have been built.
+The video tutorials and Jupyter notebooks below will explain step-by-step how the scripts have been built.
 
 ## Video tutorials & Jupyter notebooks
 
