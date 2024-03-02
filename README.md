@@ -10,7 +10,13 @@ The audience I think will benefit a lot from these tutorials are Ph.D. students,
 
 I'm assuming that you have some exposure to Python and have used Python before, at least a little bit. Thus, I will not be explaining Python from scratch in this series. There's plenty of materials for that out there already! However, I am going to explain the bits of the code as we go. I invite you to check and learn things on your own here and there to expand on what I do not cover. Since you're an academic, I'm confident that this approach will work out well!
 
-## Video tutorials & code
+## Scripts
+
+You can access the toolbox of ready scripts in the [``scripts``](scripts\) directory. Feel free to copy and modify them for your target use case!
+
+The video tutorials and Jupyter notebooks below will explain step-by-step how these have been built.
+
+## Video tutorials & Jupyter notebooks
 
 You can access all video tutorials from the YouTube playlist:
 
