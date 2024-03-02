@@ -62,11 +62,9 @@ You can access all video tutorials from the YouTube playlist:
 
 - [``11 min video`` **Remove duplicate references**](https://youtu.be/JtSoU6dHtog)
 
-- [``video`` **Order `.bib` items by year of publication**]()
-
-- [``video`` **Is it cited?**]()
-
 - [``video`` **How many times is it cited?**]()
+
+- [``video`` **Order `.bib` items by year of publication**]()
 
 - [``video`` **Generate a literature review table from a `.bib` file**]()
 
@@ -79,5 +77,10 @@ You can access all video tutorials from the YouTube playlist:
 ### 6️⃣ Managing figures
 
 > [`</> Jupyter notebook`](tutorials/)
+
+### 7️⃣ Testing scientific software
+
+> [`</> Jupyter notebook`](tutorials/)
+
 
 -----
