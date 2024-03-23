@@ -88,5 +88,11 @@ You can access all video tutorials from the YouTube playlist:
 
 > [`</> Jupyter notebook`](tutorials/)
 
+### 8️⃣ Things to watch out for
+
+> [`</> Jupyter notebook`](tutorials/things-to-watch-out-for.ipynb)
+
+- [``4 min video`` **Avoid research mistakes by safely appending to a list**](https://youtu.be/kRFA_wwLE2E?si=5QG2YhseP2hYuYeX)
+
 
 -----
