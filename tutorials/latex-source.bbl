@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{breiman2001statistical}
+Leo Breiman.
+\newblock Statistical modeling: The two cultures (with comments and a rejoinder
+  by the author).
+\newblock {\em Statistical science}, 16(3):199--231, 2001.
+
+\bibitem{lusch2018deep}
+B.~Lusch, J.N. Kutz, and S.L. Brunton.
+\newblock Deep learning for universal linear embeddings of nonlinear dynamics.
+\newblock {\em Nature Communications}, 9(1):1--10, 2018.
+
+\bibitem{kobak2019art}
+D.~Kobak and P.~Berens.
+\newblock The art of using {t-SNE} for single-cell transcriptomics.
+\newblock {\em Nature communications}, 10(1):1--14, 2019.
+
+\bibitem{nilsson2007regression}
+J.~Nilsson, F.~Sha, and M.I. Jordan.
+\newblock Regression on manifolds using kernel dimension reduction.
+\newblock In {\em Proceedings of the 24th international conference on Machine
+  learning}, pages 697--704, 2007.
+
+\bibitem{zdybal2023dissertation}
+K.~Zdyba\l{}.
+\newblock {\em Reduced-order modeling of turbulent reacting flows using
+  data-driven approaches}.
+\newblock PhD thesis, Université libre de Bruxelles, 2023.
+
+\end{thebibliography}
