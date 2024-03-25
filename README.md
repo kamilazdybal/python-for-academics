@@ -1,6 +1,6 @@
 ![Screenshot](thumbnail/banner.png)
 
-## My goals & prerequisites
+## Hi, welcome to *Python for academics*!
 
 ### 🎓 tl;dr: My goal is to help you save time and grant money by automating dull tasks!
 
@@ -68,7 +68,7 @@ You can access all video tutorials from the YouTube playlist:
 
 - [``11 min video`` **Remove duplicate references**](https://youtu.be/JtSoU6dHtog)
 
-- [``video`` **How many times is it cited?**]()
+- [``12 min video`` **How many times is it cited?**](https://youtu.be/m4ouuO3HdIY)
 
 - [``video`` **Order `.bib` items by year of publication**]()
 
@@ -80,19 +80,21 @@ You can access all video tutorials from the YouTube playlist:
 
 - [``14 min video`` **Prepare your script for asynchronously arriving data**](https://youtu.be/fUt7Eshf0lU)
 
-### 6️⃣ Managing figures
-
-> [`</> Jupyter notebook`](tutorials/)
-
-### 7️⃣ Testing scientific software
-
-> [`</> Jupyter notebook`](tutorials/)
-
-### 8️⃣ Things to watch out for
+### 6️⃣ Things to watch out for
 
 > [`</> Jupyter notebook`](tutorials/things-to-watch-out-for.ipynb)
 
 - [``4 min video`` **Avoid research mistakes by safely appending to a list**](https://youtu.be/kRFA_wwLE2E?si=5QG2YhseP2hYuYeX)
+
+### 7️⃣ Managing figures
+
+> [`</> Jupyter notebook`](tutorials/)
+
+### 8️⃣ Testing scientific software
+
+> [`</> Jupyter notebook`](tutorials/)
+
+
 
 
 -----
