@@ -56,7 +56,7 @@ You can access all video tutorials from the YouTube playlist:
 
 - [``11 min video`` **Organize your results into LaTeX tables**](https://youtu.be/-kU4h05jlFA)
 
-### 4️⃣ Managing bibliography
+### 4️⃣ Managing bibliography with regular expressions
 
 > [`</> Jupyter notebook`](tutorials/manage-bibliography.ipynb)
 
