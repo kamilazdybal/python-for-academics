@@ -20,6 +20,8 @@ You can access all video tutorials from the YouTube playlist:
   <img src="https://img.shields.io/badge/youtube-firebrick?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
 </a>
 
+Below, you'll find links to each individual video. You can pick any one you'd like first!
+
 ### 1️⃣ Automating your life with list comprehensions
 
 > [`</> Jupyter notebook`](tutorials/list-comprehensions.ipynb)
