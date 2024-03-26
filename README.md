@@ -1,8 +1,8 @@
-![Screenshot](thumbnail/banner.png)
-
 ## Hi, welcome to *Python for academics*!
 
-### 🎓 tl;dr: My goal is to help you save time and grant money by automating dull tasks!
+![Screenshot](thumbnail/banner.png)
+
+**Python for academics** is a series of coding tutorials where I teach you how to automate dull tasks from your academic life with Python!
 
 My goal is to provide you with extra tools and ideas that you haven't thought about using or implementing before. The best use of these tutorials, as I see it, is that you take those tools and ideas and start building your own Python toolbox that can help you in your everyday academic life. My hope is that you'll find pieces of useful advice that can help you automate your work, your own way!
 
@@ -10,11 +10,7 @@ The audience I think will benefit a lot from these tutorials are Ph.D. students,
 
 I'm assuming that you have some exposure to Python and have used Python before, at least a little bit. Thus, I will not be explaining Python from scratch in this series. There's plenty of materials for that out there already! However, I am going to explain the bits of the code as we go. I invite you to check and learn things on your own here and there to expand on what I do not cover. Since you're an academic, I'm confident that this approach will work out well!
 
-## Scripts
-
-You can access the toolbox of ready scripts in the [`scripts`](scripts/) directory. Feel free to copy and modify them for your target use case!
-
-The video tutorials and Jupyter notebooks below will explain step-by-step how the scripts have been built.
+#### 🎓 tl;dr: My goal is to help you save time and grant money by automating dull tasks!
 
 ## Video tutorials & Jupyter notebooks
 
@@ -94,7 +90,10 @@ You can access all video tutorials from the YouTube playlist:
 
 > [`</> Jupyter notebook`](tutorials/)
 
+## Scripts
 
+You can access the toolbox of ready scripts in the [`scripts`](scripts/) directory. Feel free to copy and modify them for your target use case!
 
+The video tutorials and Jupyter notebooks below will explain step-by-step how the scripts have been built.
 
 -----
