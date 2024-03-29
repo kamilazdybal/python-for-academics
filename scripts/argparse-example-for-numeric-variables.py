@@ -1,37 +1,37 @@
-import argparse
 import numpy as np
+import argparse
 
 def argument_parser():
 
     parser = argparse.ArgumentParser()
-    
+
     parser.add_argument('--input_variables',
                         type=int,
                         default=[0,1,2,3,4],
                         nargs="+",
                         help='Indices for the input variables')
-    
+
     parser.add_argument('--n_epochs',
                         type=int,
                         default=1000,
                         help='Number of epochs')
-    
+
     parser.add_argument('--learning_rate',
                         type=float,
                         default=0.001,
                         help='Learning rate')
-    
+
     parser.add_argument('--initializer',
                         type=str,
                         default='GlorotUniform',
                         help='Initialization of weights')
-    
+
     parser.add_argument('--random_seeds',
                         type=int,
                         default=[0,10],
                         nargs="+",
                         help='Min and max random seed')
-    
+
     return parser
 
 parser = argument_parser()
@@ -42,9 +42,9 @@ print(args)
 
 print()
 
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Case settings
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # Populate parameter values from argument parser:
 input_variables = vars(args).get('input_variables')
@@ -66,18 +66,18 @@ print(case_run_name)
 
 print()
 
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Neural network training with the current parameters starts here...
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 for i in random_seeds_list:
 
     print('Training session for random seed ' + str(i) + '...')
 
     # ...
-    
+
     # ...
-    
+
     # ...
 
 print()

@@ -1,8 +1,8 @@
 import numpy as np
 
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Case settings
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # Set parameters:
 input_variables = [0, 1, 2, 3, 4]
@@ -24,16 +24,18 @@ print(case_run_name)
 
 print()
 
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Neural network training with the current parameters starts here...
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+for i in random_seeds_list:
 
     print('Training session for random seed ' + str(i) + '...')
 
     # ...
-    
+
     # ...
-    
+
     # ...
 
 print()
