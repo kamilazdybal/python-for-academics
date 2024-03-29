@@ -78,6 +78,8 @@ Below, you'll find links to each individual video. You can pick any one you'd li
 
 - [``14 min video`` **Prepare your script for asynchronously arriving data**](https://youtu.be/fUt7Eshf0lU)
 
+- [`` min video`` **Setting numeric parameters of a Python script from the command line using the `argparse` library**]()
+
 ### 6️⃣ Things to watch out for
 
 > [`</> Jupyter notebook`](tutorials/things-to-watch-out-for.ipynb)
