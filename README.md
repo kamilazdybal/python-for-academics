@@ -84,7 +84,7 @@ Below, you'll find links to all videos and the associated Jupyter notebooks. You
 
 - [`📹 14 min` **Setting numeric parameters of a Python script from the command line**](https://youtu.be/ONCv_ql2xpE)
 
-- [`📹 ` **Setting boolean parameters of a Python script from the command line**]( )
+- [`📹 4 min` **Setting boolean parameters of a Python script from the command line**](https://youtu.be/8gfFteE6jz0)
 
 ### 6️⃣ Things to watch out for
 

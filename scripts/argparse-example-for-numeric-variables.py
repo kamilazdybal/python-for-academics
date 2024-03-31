@@ -32,6 +32,12 @@ def argument_parser():
                         nargs="+",
                         help='Min and max random seed')
 
+    parser.add_argument('--decay',
+                        type=bool,
+                        default=False,
+                        action=argparse.BooleanOptionalAction,
+                        help='Use learning rate decay')
+
     return parser
 
 parser = argument_parser()
@@ -52,6 +58,11 @@ n_epochs = vars(args).get('n_epochs')
 learning_rate = vars(args).get('learning_rate')
 initializer = vars(args).get('initializer')
 min_random_seed, max_random_seed = tuple(vars(args).get('random_seeds'))
+decay = vars(args).get('decay')
+
+print(decay)
+
+print()
 
 # List of random seeds to loop over:
 random_seeds_list = [i for i in range(min_random_seed, max_random_seed)]
