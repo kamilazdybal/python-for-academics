@@ -14,7 +14,7 @@ I'm assuming that you have some exposure to Python and have used Python before, 
 
 ## Video tutorials & Jupyter notebooks
 
-Below, you'll find links to each individual video. You can pick any one you'd like first!
+Below, you'll find links to all videos and the associated Jupyter notebooks. You can pick any topic you'd like first!
 
 ![Screenshot](thumbnail/python-for-academics-videos-1-20.png)
 
@@ -46,6 +46,8 @@ You can access all video tutorials from the YouTube playlist:
 
 - [`📹 10 min`: **Remove a phrase from a file name using regular expressions library**](https://youtu.be/cTBpI1QQjLA)
 
+- [`📹 `: **File name to lowercase**]( )
+
 ### 3️⃣ Documenting research
 
 → [`💻 Jupyter notebook`](tutorials/document-research.ipynb)
@@ -70,9 +72,9 @@ You can access all video tutorials from the YouTube playlist:
 
 - [`📹 12 min` **How many times is it cited?**](https://youtu.be/m4ouuO3HdIY)
 
-- [`video` **Order `.bib` items by year of publication**]()
+- [`📹 ` **Order `.bib` items by year of publication**]( )
 
-- [`video` **Generate a literature review table from a `.bib` file**]()
+- [`📹 ` **Generate a literature review table from a `.bib` file**]( )
 
 ### 5️⃣ Postprocessing results
 
@@ -81,6 +83,8 @@ You can access all video tutorials from the YouTube playlist:
 - [`📹 14 min` **Prepare your script for asynchronously arriving data**](https://youtu.be/fUt7Eshf0lU)
 
 - [`📹 14 min` **Setting numeric parameters of a Python script from the command line**](https://youtu.be/ONCv_ql2xpE)
+
+- [`📹 ` **Setting boolean parameters of a Python script from the command line**]( )
 
 ### 6️⃣ Things to watch out for
 
