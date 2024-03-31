@@ -4,15 +4,17 @@
 
 **Python for academics** is a series of coding tutorials where I teach you how to automate dull tasks from your academic life with Python!
 
+#### 🐍 🎓 tl;dr: My goal is to help you save time and grant money by automating dull tasks!
+
 My goal is to provide you with extra tools and ideas that you haven't thought about using or implementing before. The best use of these tutorials, as I see it, is that you take those tools and ideas and start building your own Python toolbox that can help you in your everyday academic life. My hope is that you'll find pieces of useful advice that can help you automate your work, your own way!
 
 The audience I think will benefit a lot from these tutorials are Ph.D. students, especially at the beginning of their Ph.D. I believe that the earlier you learn how to automate dull tasks the better! My motivation is to teach you things that I wish I had learned early in my Ph.D. But, of course, academics at all stages of their careers are welcome to join along! 🙂
 
 I'm assuming that you have some exposure to Python and have used Python before, at least a little bit. Thus, I will not be explaining Python from scratch in this series. There's plenty of materials for that out there already! However, I am going to explain the bits of the code as we go. I invite you to check and learn things on your own here and there to expand on what I do not cover. Since you're an academic, I'm confident that this approach will work out well!
 
-#### 🐍 🎓 tl;dr: My goal is to help you save time and grant money by automating dull tasks!
-
 ## Video tutorials & Jupyter notebooks
+
+Below, you'll find links to each individual video. You can pick any one you'd like first!
 
 ![Screenshot](thumbnail/python-for-academics-videos-1-20.png)
 
@@ -21,8 +23,6 @@ You can access all video tutorials from the YouTube playlist:
 <a href="https://www.youtube.com/playlist?list=PL7gWbAt3_3KEuRQfwFeI_RH3EZr87nslf">
   <img src="https://img.shields.io/badge/youtube-firebrick?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
 </a>
-
-Below, you'll find links to each individual video. You can pick any one you'd like first!
 
 ### 1️⃣ Automating your life with list comprehensions
 
@@ -100,6 +100,6 @@ Below, you'll find links to each individual video. You can pick any one you'd li
 
 You can access the toolbox of ready scripts in the [`scripts`](scripts/) directory. Feel free to copy and modify them for your target use case!
 
-The video tutorials and Jupyter notebooks below will explain step-by-step how the scripts have been built.
+The video tutorials and Jupyter notebooks explain step-by-step how the scripts have been built.
 
 -----
