@@ -2,7 +2,7 @@
 
 ![Screenshot](thumbnail/banner.png)
 
-**Python for academics** is a series of coding tutorials where I teach you how to automate dull tasks from your academic life with Python!
+**Python for academics** is a series of coding tutorials where you will learn how to automate your everyday academic life with Python!
 
 #### 🐍 🎓 tl;dr: My goal is to help you save time and grant money by automating dull tasks!
 
