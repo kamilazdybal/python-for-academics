@@ -90,7 +90,7 @@ Below, you'll find links to all videos and the associated Jupyter notebooks. You
 
 → [`💻 Jupyter notebook`](tutorials/things-to-watch-out-for.ipynb)
 
-- [`📹 4 min` **Avoid research mistakes by safely appending to a list**](https://youtu.be/kRFA_wwLE2E?si=5QG2YhseP2hYuYeX)
+- [`📹 4 min` **Avoid research mistakes by safely appending to a list**](https://youtu.be/kRFA_wwLE2E)
 
 ### 7️⃣ Managing figures
 
