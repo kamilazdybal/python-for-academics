@@ -46,7 +46,7 @@ Below, you'll find links to all videos and the associated Jupyter notebooks. You
 
 - [`📹 10 min`: **Remove a phrase from a file name using regular expressions library**](https://youtu.be/cTBpI1QQjLA)
 
-- [`📹 `: **File name to lowercase**]( )
+- [`📹 4 min`: **File name to lowercase**](https://youtu.be/OAqH6gzgi6Y)
 
 ### 3️⃣ Documenting research
 
