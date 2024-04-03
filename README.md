@@ -1,10 +1,10 @@
-## Hi, welcome to *Python for academics*! 🐍 🎓
+## Hi, welcome to *Python for Academics*! 🐍 → 🎓
 
 ![Screenshot](thumbnail/banner.png)
 
-**Python for academics** is a series of coding tutorials where you will learn how to automate your everyday academic life with Python!
+**Python for Academics** is a series of coding tutorials where you will learn how to automate your everyday academic life with Python!
 
-#### 🐍 🎓 tl;dr: My goal is to help you save time and grant money by automating dull tasks!
+#### tl;dr: My goal is to help you save time and grant money by automating dull tasks!
 
 My goal is to provide you with extra tools and ideas that you haven't thought about using or implementing before. The best use of these tutorials, as I see it, is that you take those tools and ideas and start building your own Python toolbox that can help you in your everyday academic life. My hope is that you'll find pieces of useful advice that can help you automate your work, your own way!
 
