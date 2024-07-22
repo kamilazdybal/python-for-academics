@@ -58,6 +58,8 @@ Below, you'll find links to all videos and the associated Jupyter notebooks. You
 
 - [`📹 11 min` **Organize your results into LaTeX tables**](https://youtu.be/-kU4h05jlFA)
 
+- [`📹 18 min` **Publication-ready diagrams**](https://youtu.be/7Zg6zMgpJuo)
+
 ### 4️⃣ Managing bibliography with regular expressions
 
 → [`💻 Jupyter notebook`](tutorials/manage-bibliography.ipynb)
